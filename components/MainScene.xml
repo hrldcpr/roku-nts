@@ -4,4 +4,7 @@
     <Audio id="audioPlayer" />
   </children>
   <script type="text/brightscript" uri="MainScene.brs" />
+  <interface>
+    <field id="buttonPressed" type="string" />
+  </interface>
 </component>
